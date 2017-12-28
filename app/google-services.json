@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "893028085569",
+    "firebase_url": "https://managmentfinanciar.firebaseio.com",
+    "project_id": "managmentfinanciar",
+    "storage_bucket": "managmentfinanciar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893028085569:android:185ffcb9200d9c05",
+        "android_client_info": {
+          "package_name": "com.example.andreeat.logintest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893028085569-pao043vdn5omuorrl4arirblmma6ae4p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.andreeat.logintest",
+            "certificate_hash": "a08d31b6fadcdef1efaf06da186879e407903416"
+          }
+        },
+        {
+          "client_id": "893028085569-njqucfkqdie5ottncjomk8u1397piorc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhYgsPNxNZ67EwBimG4Qnbon8uum2yVAY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893028085569-njqucfkqdie5ottncjomk8u1397piorc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
